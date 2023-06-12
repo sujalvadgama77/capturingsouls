@@ -1,0 +1,22 @@
+/*
+Custom CSS for TemplateMo 561 Purple Buzz
+
+https://templatemo.com/tm-561-purple-buzz
+
+*/
+.feedback {
+  background-color : #6266ea;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 50px;
+  border-color: #6266ea;
+}
+
+#mybutton {
+  position: fixed;
+  bottom: 100px;
+  right: 77px;
+}
+.SignUp {
+
+}
